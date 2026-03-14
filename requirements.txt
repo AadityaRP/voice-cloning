@@ -1,4 +1,5 @@
-flask
+Flask
 python-dotenv
 elevenlabs
 requests
+gunicorn
